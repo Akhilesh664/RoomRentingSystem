@@ -16,7 +16,18 @@ A full-stack web application for managing room rentals, built with **React** �
   - Upload bills for customers 📑
 - **File Storage**: Local storage for uploaded documents and bills 📂
 - **Responsive UI**: Built with Tailwind CSS for a modern look 📱
-
+**
+register 
+login
+updateProfile
+uploadDocument
+uploadRoomRequest
+getBills
+getAllBills
+updateRequestStatus
+uploadBill
+storeFile
+**
 ## 🛠️ Tech Stack
 
 - **Frontend**: React, React Router, Axios, Tailwind CSS
